@@ -12,4 +12,19 @@
 			<version>5.5.8</version>
 		</dependency>
 	</dependencies>
+	<scm>
+		<url>https://github.com/mkapdan/PdfCreator</url>
+		<connection>scm:git:git://github.com/mkapdan/PdfCreator.git</connection>
+		<developerConnection>scm:git:git@github.com:mkapdan/PdfCreator.git</developerConnection>
+	</scm>
+
+	<developers>
+		<developer>
+			<email>mustafakapdan@gmail.com</email>
+			<name>Mustafa Kapdan</name>
+			<url>https://github.com/mkapdan</url>
+			<id>mkapdan</id>
+		</developer>
+	</developers>
+
 </project>
