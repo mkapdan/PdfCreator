@@ -27,4 +27,19 @@
 		</developer>
 	</developers>
 
+	<!-- ################### BEGIN ARTIFACTORY DEPLOY #################### -->
+	<distributionManagement>
+		<snapshotRepository>
+			<id>snapshots</id>
+			<name>kaptan-kubuntu-snapshots</name>
+			<url>http://localhost:8081/artifactory/libs-snapshot-local</url>
+		</snapshotRepository>
+		<repository>
+			<id>central</id>
+			<name>kaptan-kubuntu-releases</name>
+			<url>http://localhost:8081/artifactory/libs-release-local</url>
+		</repository>
+	</distributionManagement>
+
+
 </project>
