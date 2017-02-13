@@ -33,11 +33,6 @@
 			<version>5.5.8</version>
 		</dependency>
 	</dependencies>
-	<scm>
-		<url>https://github.com/mkapdan/PdfCreator</url>
-		<connection>scm:git:git://github.com/mkapdan/PdfCreator.git</connection>
-		<developerConnection>scm:git:git@github.com:mkapdan/PdfCreator.git</developerConnection>
-	</scm>
 
 	<scm>
 		<url>https://github.com/mkapdan/PdfCreator</url>
